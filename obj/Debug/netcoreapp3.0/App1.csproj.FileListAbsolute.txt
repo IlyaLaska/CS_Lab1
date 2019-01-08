@@ -1,0 +1,12 @@
+D:\JetBrains\apps\Rider\Projects\App1Sln\bin\Debug\netcoreapp3.0\App1.exe
+D:\JetBrains\apps\Rider\Projects\App1Sln\bin\Debug\netcoreapp3.0\App1.deps.json
+D:\JetBrains\apps\Rider\Projects\App1Sln\bin\Debug\netcoreapp3.0\App1.runtimeconfig.json
+D:\JetBrains\apps\Rider\Projects\App1Sln\bin\Debug\netcoreapp3.0\App1.runtimeconfig.dev.json
+D:\JetBrains\apps\Rider\Projects\App1Sln\bin\Debug\netcoreapp3.0\App1.dll
+D:\JetBrains\apps\Rider\Projects\App1Sln\bin\Debug\netcoreapp3.0\App1.pdb
+D:\JetBrains\apps\Rider\Projects\App1Sln\obj\Debug\netcoreapp3.0\App1.csprojAssemblyReference.cache
+D:\JetBrains\apps\Rider\Projects\App1Sln\obj\Debug\netcoreapp3.0\App1.csproj.CoreCompileInputs.cache
+D:\JetBrains\apps\Rider\Projects\App1Sln\obj\Debug\netcoreapp3.0\App1.AssemblyInfoInputs.cache
+D:\JetBrains\apps\Rider\Projects\App1Sln\obj\Debug\netcoreapp3.0\App1.AssemblyInfo.cs
+D:\JetBrains\apps\Rider\Projects\App1Sln\obj\Debug\netcoreapp3.0\App1.dll
+D:\JetBrains\apps\Rider\Projects\App1Sln\obj\Debug\netcoreapp3.0\App1.pdb
